@@ -1,0 +1,40 @@
+.h1 {
+    color: red;
+}
+
+.menu {
+    position: fixed;
+    width: 100%;
+    height: 35px;
+    background-color: #f2f2f2;
+    opacity: 1;
+    z-index: 100;
+}
+
+.menu-list {
+    list-style: none;
+    height: 100%;
+    list-style: none;
+    display: inline-block;
+}
+
+.item {
+    margin: 15px;
+    margin-top: 3px;
+    display: inline-block;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+}
+
+#menu1 {
+    margin-left: 10px;
+}
+
+#menu2 {
+    margin-left: 237px;
+}
